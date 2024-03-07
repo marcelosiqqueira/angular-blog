@@ -1,0 +1,7 @@
+.container-menu-bar ul {
+  display: flex;
+}
+
+.container-menu-bar ul li{
+  margin-right: 30px;
+}
